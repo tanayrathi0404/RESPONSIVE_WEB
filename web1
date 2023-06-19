@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+
+
+
+        <link rel="stylesheet" href="style2.css">
+
+        <style>
+
+            
+            
+        </style>
+
+        <title> CLICK CLUB PROJECT 1</title>
+    </head>
+    <body>
+        
+
+
+
+
+        <HR>
+
+            <img src="C:\Users\rathi\OneDrive\Desktop\coding\html\POEMPG.jpg" alt="CLICl CLUB WELCOMES YOU" width="200" heigt="210">
+
+        <h1  style="background:white"  align="center">WELCOME TO POETRY NAGAR!</h1>
+        <h3 style="color:rgb(255, 162, 0) ; background:black" align="center"> YE KAVITAON KI DUNIYA HAI </h3>
+        <img src="C:\Users\rathi\OneDrive\Desktop\coding\html\location.png" width="20" heigt="20">
+        <h5 style="color:white" align="center"> KHO JAO IS KAVITA NAGRI MEIN!</h5>
+        <h5 style="color:white" align=" center"> OWNER TANAY RATHI</h5>
+
+        <HR>
+
+
+
+
+        <h5 style="color:white" align="center"> MAI SURAJ KO GALE LAGA BAITHA</h5>
+        <a href= "https://youtu.be/wypeS6UT96I" >
+
+            <button style="background-color:rgb(205, 120, 29) ;color:#0e0e10; border-radius: 5px " align="center"> WATCH HERE</button>
+        </a>
+
+
+        <br>
+
+        <br>
+        <br>
+        <br>
+        <!--  background-image:url(CCBG3.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: 100% 100%;
+}-->
+        <P style="text-align:center">  This is to introduce the world with a new stage and a platform<br>
+                                        to live and create the content that adds value to not just the <br>
+                                        lives of humans but it also impacts the mindset of people to work<br>
+                                         for a better cause and humanity</P>
+    </body>
+</html>
